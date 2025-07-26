@@ -1,10 +1,8 @@
 # 🏎️ Formula 1 Performance Analysis – Silverstone 2024 Grand Prix
 
-This project presents a data analysis of Formula 1 performance during the **Silverstone 2024 Grand Prix**.
-
 ## 📊 Project Overview
 
-This project performs a comprehensive data analysis performance of the Formula 1 British Grand Prix at Silverstone using the `fastf1` library. The analysis covers various aspects of the race, including:
+This project performs a comprehensive data analysis performance of the **Formula 1 British Grand Prix at Silverstone** using the `fastf1` library. The analysis covers various aspects of the race, including:
 
 -   **Circuit characteristics:** Basic information about the Silverstone track.
 -   **Driver performance:** Detailed analysis of individual driver lap times, sector times, and consistency.
