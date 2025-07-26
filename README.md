@@ -19,5 +19,7 @@ This project is ideal for F1 enthusiasts, data science learners, or anyone inter
 
 Below is a summary of tire strategies and performance during the Silverstone GP:
 
-![Tire Strategy Analysis](72e718f7-fc62-47b0-b52d-734994d46847.png)
+```bash
+<img width="1589" height="1181" alt="image" src="https://github.com/user-attachments/assets/4c09adc8-5d41-44fb-95a7-192e8aa44b3d" />
+
 
