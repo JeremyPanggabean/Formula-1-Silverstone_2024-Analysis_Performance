@@ -16,9 +16,13 @@ This project is ideal for F1 enthusiasts, data science learners, or anyone inter
 
 
 ## 🖼️ Sample Visualization
+- Below is a summary of Driver Oscar Piastri Lap Time Progression:
+  <img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/aa5168bb-a67b-4fc0-b848-4a9a651e6071" />
 
-Below is a summary of tire strategies and performance during the Silverstone GP:
+- Below is a summary of Driver Oscar Piastri Tire Strategy:
+  <img width="1389" height="790" alt="image" src="https://github.com/user-attachments/assets/2c32cb21-959a-43c4-b7f1-c13b0fa96128" />
 
-<img width="1589" height="1181" alt="image" src="https://github.com/user-attachments/assets/4c09adc8-5d41-44fb-95a7-192e8aa44b3d" />
+- Below is a summary of tire strategies and performance during the Silverstone GP:
+  <img width="1589" height="1181" alt="image" src="https://github.com/user-attachments/assets/4c09adc8-5d41-44fb-95a7-192e8aa44b3d" />
 
 
