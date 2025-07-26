@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project performs a comprehensive data analysis performance of the **Formula 1 British Grand Prix at Silverstone** using the `fastf1` library. The analysis covers various aspects of the race, including:
+This project performs a comprehensive data analysis performance of the **Formula 1 British Grand Prix at Silverstone 2024** using the `fastf1` library. The analysis covers various aspects of the race, including:
 
 -   **Analyzing Telemetry data:** (Speed, Time, Tire) from the driver.
 -   **Circuit characteristics:** Basic information about the Silverstone track.
