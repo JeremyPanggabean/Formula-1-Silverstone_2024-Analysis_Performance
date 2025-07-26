@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Performance Analysis – Silverstone 2024 Grand Prix
+#  Formula 1 Performance Analysis – Silverstone 2024 Grand Prix
 
 ## 📊 Project Overview
 
